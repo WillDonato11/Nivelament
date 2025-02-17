@@ -1,0 +1,46 @@
+body {
+    background-color: white;
+    border-color: black;
+    border-style: dashed;
+    text-align: center;
+    
+}
+
+h1 {
+    text-align: center;
+    font-size: 250%;
+    color: black;
+    border-color: black;
+    border-style: double;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+#ima1 {
+    width: 40%;
+    margin-left: 10%;
+    margin-right: 60%;
+}
+
+#ima2 {
+    width: 40%;
+    margin-left: 10%;
+    margin-right: 60%;
+}
+
+h3 {
+    font-size: 200%;
+    color: black;
+}
+#ima3 {width: 30%;
+    margin-left: 10%;
+    margin-right: 60%;
+}
+#ima4 {width: 30%;
+    margin-left: 10%;
+    margin-right: 60%;
+}
+#Ima5 {width: 40%;
+    margin-left: 10%;
+    margin-right: 60%;
+}
